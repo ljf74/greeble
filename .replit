@@ -1,0 +1,4 @@
+run = "cd dist && python3 -m http.server"
+
+[nix]
+channel = "stable-22_11"
